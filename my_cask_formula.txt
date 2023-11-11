@@ -1,0 +1,16 @@
+arc
+canva
+coteditor
+discord
+docker
+figma
+google-chrome
+google-drive
+microsoft-edge
+microsoft-teams
+notion
+postman
+slack
+utm
+visual-studio-code
+warp
